@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://saksham32sk.github.io/OPTIGEETECH/sitemap.xml
